@@ -315,7 +315,6 @@
 
 <script>
 //--- CONFIGURACIÓN DE LINKS DE GOOGLE SHEETS ---
-const URL_PRODUCTOS_CSV = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQxmMtrLlKEH1uQUNmUvQxXUmFJQNQc46rwfOpKMNzJytrGDRxyMjo_S2DhQIDJmXTv1o6G2fvZQZgi/pubhtml?gid=1794389307&single=true_AQUÍ";
 const URL_PEDIDOS_CSV = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQxmMtrLlKEH1uQUNmUvQxXUmFJQNQc46rwfOpKMNzJytrGDRxyMjo_S2DhQIDJmXTv1o6G2fvZQZgi/pub?gid=271238087&single=true&output=csv";
 
 
